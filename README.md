@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=gothic&size=31&duration=700&pause=10000&color=00A3F7&vCenter=true&multiline=true&width=450&lines=Hello+there!" alt="Typing SVG" /></a>
 
 
-I'am a developer/creator of platforms and complex computational methods. My main specialization is fintech, artificial intelligence and robotics. If you need help, I can participate in your project!
+I'm a developer/creator of platforms and complex computational methods. My main specialization is fintech, artificial intelligence and robotics. If you need help, I can participate in your project!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=enariavishenda&theme=windows-dark&border_radius=0)](https://git.io/streak-stats)
 
@@ -55,3 +55,5 @@ I'am a developer/creator of platforms and complex computational methods. My main
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
+
+I'm the first who created a basic general-purpose artificial intelligence cognitive system и self-aware system.
